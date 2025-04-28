@@ -9,9 +9,7 @@
   - ASCII Shift (+3)
   - Reverse Text
   - Base64 Encoding
-  - Caesar Cipher (custom shift)
   - AES (Advanced Encryption Standard)
-  - RSA (Public/Private Key Encryption)
 - 🔓 Decrypt files with automatic detection of the encryption method
 - 📁 Encrypted and decrypted files are saved separately for easy access
 - 🧠 Educational purpose with practical cryptography implementation
