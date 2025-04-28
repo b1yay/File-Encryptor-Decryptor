@@ -1,2 +1,22 @@
 # File-Encryptor-Decryptor
-**FileEncryptorGui** is a Windows Forms app that lets users encrypt and decrypt `.txt` files using multiple methods like ASCII Shift, Reverse Text, Base64, and AES. It's a user-friendly tool designed for learning and experimenting with various encryption techniques in a practical environment.
+## 🔐 FileEncryptorGui – Windows Forms File Encryption Tool
+
+**FileEncryptorGui** is a simple yet versatile Windows Forms application for encrypting and decrypting `.txt` files using multiple encryption techniques. It offers a user-friendly interface and supports both basic and strong encryption algorithms.
+
+### ✨ Features:
+- 📂 Browse and select files from a predefined folder (`UserFiles`)
+- 🔒 Encrypt using:
+  - ASCII Shift (+3)
+  - Reverse Text
+  - Base64 Encoding
+  - Caesar Cipher (custom shift)
+  - AES (Advanced Encryption Standard)
+  - RSA (Public/Private Key Encryption)
+- 🔓 Decrypt files with automatic detection of the encryption method
+- 📁 Encrypted and decrypted files are saved separately for easy access
+- 🧠 Educational purpose with practical cryptography implementation
+
+### 🛠️ Built With:
+- C#
+- Windows Forms (.NET Framework)
+- System.Security.Cryptography
