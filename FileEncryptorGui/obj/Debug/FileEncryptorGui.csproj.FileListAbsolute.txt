@@ -1,0 +1,15 @@
+F:\semster 4\IS\FileEncryptorGui\FileEncryptorGui\bin\Debug\FileEncryptorGui.exe.config
+F:\semster 4\IS\FileEncryptorGui\FileEncryptorGui\bin\Debug\FileEncryptorGui.exe
+F:\semster 4\IS\FileEncryptorGui\FileEncryptorGui\bin\Debug\FileEncryptorGui.pdb
+F:\semster 4\IS\FileEncryptorGui\FileEncryptorGui\obj\Debug\FileEncryptorGui.csproj.AssemblyReference.cache
+F:\semster 4\IS\FileEncryptorGui\FileEncryptorGui\obj\Debug\FileEncryptorGui.Properties.Resources.resources
+F:\semster 4\IS\FileEncryptorGui\FileEncryptorGui\obj\Debug\FileEncryptorGui.csproj.GenerateResource.cache
+F:\semster 4\IS\FileEncryptorGui\FileEncryptorGui\obj\Debug\FileEncryptorGui.csproj.CoreCompileInputs.cache
+F:\semster 4\IS\FileEncryptorGui\FileEncryptorGui\obj\Debug\FileEncryptorGui.exe
+F:\semster 4\IS\FileEncryptorGui\FileEncryptorGui\obj\Debug\FileEncryptorGui.pdb
+F:\semster 4\IS\FileEncryptorGui\FileEncryptorGui\obj\Debug\FileEncryptorGui.InputDialog.resources
+F:\semster 4\IS\FileEncryptorGui\FileEncryptorGui\obj\Debug\FileEncryptorGui.MainMenu.resources
+F:\semster 4\IS\FileEncryptorGui\FileEncryptorGui\obj\Debug\FileEncryptorGui.EncryptForm.resources
+F:\semster 4\IS\FileEncryptorGui\FileEncryptorGui\obj\Debug\FileEncryptorGui.DeleteForm.resources
+F:\semster 4\IS\FileEncryptorGui\FileEncryptorGui\obj\Debug\FileEncryptorGui.DecryptForm.resources
+F:\semster 4\IS\FileEncryptorGui\FileEncryptorGui\obj\Debug\FileEncryptorGui.ViewForm.resources
